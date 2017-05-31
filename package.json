@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chloeking/Node-Express-Handlebars.git"
+    "url": "git+https://github.com/Creator44/burger.git"
   },
   "keywords": [
     "Node.js",
     "Express.js",
     "handlebars"
   ],
-  "author": "Chloe King",
+  "author": "John Sproat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chloeking/Node-Express-Handlebars/issues"
+    "url": "https://github.com/Creator44/burger/issues"
   },
-  "homepage": "https://github.com/chloeking/Node-Express-Handlebars#readme",
+  "homepage": "https://github.com/Creator44/burger#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
